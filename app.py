@@ -4,8 +4,8 @@ app = Flask(__name__)
 @app.route('/')
 def home():
     return """
-    <h1> Project 2 v2 Deployed Successfully</h1>
-    <p>CI/CD is working perfectly!</p>
+    <h1>🔥 FINAL UPDATED VERSION 🔥</h1>
+    <p>Now CI/CD is perfectly working!</p>
     """
 
 if __name__ == '__main__':
