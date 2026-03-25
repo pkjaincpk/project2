@@ -4,7 +4,7 @@ app = Flask(__name__)
 @app.route('/')
 def home():
     return """
-    <h1>🔥 FINAL UPDATED VERSION Auto Deployment 🔥</h1>
+    <h1>🔥 Auto Deployment V2 🔥</h1>
     <p>Now CI/CD is perfectly working!</p>
     """
 
